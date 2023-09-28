@@ -9,6 +9,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="c++" width="45" height="45"/> </a> &ensp; 
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt="C#" width="45" height="45"/> </a> &ensp;
 <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> <img src="https://img.icons8.com/?size=154&id=1BC75jFEBED6&format=png" alt=".Net" width="45" height="45"/> </a> &ensp;
+<a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank"> <img src="https://img.icons8.com/?size=256&id=PxGe70dlNq7K&format=png" alt="MSSQL" width="45" height="45"/> </a> &ensp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="git" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
 
