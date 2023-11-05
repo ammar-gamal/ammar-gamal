@@ -1,6 +1,6 @@
 <h1 align='center'> Hi 👋, <br> I'm Ammar Gamal </h1>
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=1000&color=F786A1&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+There++iam+Ammar+Gamal;BackEnd+Developer" alt="Typing SVG" /></a>
 
 </p> 
 
