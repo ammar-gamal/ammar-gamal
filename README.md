@@ -1,6 +1,6 @@
-<h1 align='center'> Hi 👋, <br> I'm Ammar Gamal </h1>
+
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee&pause=1000&color=F786A1&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+There++iam+Ammar+Gamal;BackEnd+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&duration=3000&pause=1000&color=FFB2FA&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ammar+Gamal!;Backend+Developer" alt="Typing SVG" /></a>
 
 </p> 
 
